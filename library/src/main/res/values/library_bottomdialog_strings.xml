@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<resources>
+	<string name="define_bottomdialog">year;owner</string>
+	<string name="library_bottomdialog_author">Raphaël Bussa</string>
+	<string name="library_bottomdialog_authorWebsite">http://rebus007.altervista.org</string>
+	<string name="library_bottomdialog_libraryName">Bottom Dialog</string>
+	<string name="library_bottomdialog_libraryDescription">This is a custom dialog attached at the bottom</string>
+	<string name="library_bottomdialog_libraryWebsite">http://rebus007.github.io/BottomDialog/</string>
+	<string name="library_bottomdialog_libraryVersion">0.0.5</string>
+	<string name="library_bottomdialog_isOpenSource">true</string>
+	<string name="library_bottomdialog_repositoryLink">https://github.com/rebus007/BottomDialog</string>	<string name="library_bottomdialog_licenseId">mit</string>
+	<string name="library_bottomdialog_owner">Raphaël Bussa</string>
+	<string name="library_bottomdialog_year">2016</string>
+</resources>

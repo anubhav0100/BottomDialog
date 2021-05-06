@@ -1,0 +1,3 @@
+rootProject.name = "bottomviewlib"
+include ':app'
+include ':library'
